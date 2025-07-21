@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155.92 103.27">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 55px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #3c2415;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: ScriptMTBold, 'Script MT Bold';
+      }
+
+      .cls-2 {
+        font-family: BellMT, 'Bell MT';
+        font-size: 13px;
+      }
+
+      .cls-3 {
+        fill: #fbb040;
+        font-size: 65px;
+      }
+
+      .cls-4 {
+        letter-spacing: -.12em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 46.64)"><tspan x="0" y="0">Classic</tspan></text>
+  <text class="cls-3" transform="translate(24.74 85.22)"><tspan x="0" y="0">Cuts</tspan></text>
+  <text class="cls-2" transform="translate(4.56 99.81)"><tspan x="0" y="0">L</tspan><tspan class="cls-4" x="7.99" y="0">A</tspan><tspan x="15.41" y="0">WN AND LANDSCAPE</tspan></text>
+</svg>
